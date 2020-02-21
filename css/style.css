@@ -43,3 +43,39 @@
 .icon-linkedin:before {
   content: "\eac9";
 }
+    .mydiv {
+         display: inline-block;
+         position: fixed;
+         top: 0;
+         bottom: 0;
+         left: 0;
+         right: 0;
+         width: 289px;
+         height: 100px;
+         margin: auto;
+         background-color: transparent;
+    }
+    span {
+        position: unset;
+        margin: 10px;
+        font-size: 31px;
+    }
+    .icon-Sonatrach:hover{
+      color: #f5851e;
+    }
+    .icon-i-sonatrach:hover{
+      color: #f5851e;
+    }
+    .icon-linkedin:hover{
+      color: #0077b5;
+    }
+    .icon-youtube:hover{
+      color: #f00;
+    }
+    .icon-twitter:hover{
+      color: #1da1f2;
+    }
+    h2{
+      font-family:"Comic Sans MS", cursive, sans-serif;
+      padding-left: 30%;
+    }
